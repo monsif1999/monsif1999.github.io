@@ -1,0 +1,14 @@
+---
+title: "Portfolio & Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+Hello! I am **Monsif Baraka**, a Geospatial Data Scientist specializing in Computer Vision, based in Montreal.
+
+Welcome to my personal website. Here, I document my projects in **Computer Vision**, **Geomatics**, and **Machine Learning**.
+
+### Latest Posts 👇

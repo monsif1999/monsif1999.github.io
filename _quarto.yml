@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  description: ""
+  site-url: monsif1999.github.io # you must change this appropriately for RSS feeds to work properly
+  title: "Monsif"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/monsif1999
+      - icon: Linkedin
+        href: https://www.linkedin.com/in/monsif-baraka/
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+
